@@ -12,3 +12,11 @@ div {
     margin-bottom: 80px;
     overflow-y: scroll;
 }
+
+#elem3 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    margin-bottom: 80px;
+    overflow-y: hidden;
+}
