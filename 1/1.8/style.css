@@ -2,4 +2,13 @@ div {
     width: 200px;
     height: 200px;
     border: 1px solid;
+    margin-bottom: 80px;
+}
+
+#elem2 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    margin-bottom: 80px;
+    overflow-y: scroll;
 }
