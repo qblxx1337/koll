@@ -44,9 +44,17 @@ div {
     border: 1px solid;
     overflow: scroll;
 }
-.photo2 {
+.photo3 {
     width: 200px;
     height: 200px;
     border: 1px solid;
     overflow: hidden;
+}
+
+.photo4 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    overflow-x: hidden;
+    overflow-y: scroll;
 }
