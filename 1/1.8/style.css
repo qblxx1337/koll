@@ -20,3 +20,14 @@ div {
     margin-bottom: 80px;
     overflow-y: hidden;
 }
+#elem4 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    margin-bottom: 80px;
+    overflow-y: hidden;
+}
+
+#elem4:hover {
+    height: auto;
+}
