@@ -1,0 +1,9 @@
+.sec {
+    width: 200px;
+    border: 1px solid;
+}
+
+p {
+    white-space: nowrap;
+}
+
