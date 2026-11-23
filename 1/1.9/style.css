@@ -5,3 +5,10 @@
     white-space: nowrap;
 }
 
+.task2 {
+    width: 200px;
+    border: 1px solid;
+    margin-bottom: 20px;
+    white-space: nowrap;
+    overflow-x: scroll;
+}
