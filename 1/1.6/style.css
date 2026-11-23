@@ -7,3 +7,19 @@ p {
     white-space: nowrap;
 }
 
+.box {
+  width: 220px;
+  border: 1px solid;
+}
+
+.pre {
+    white-space: pre;
+}
+
+.pre-wrap {
+    white-space: pre-wrap;
+}
+
+.pre-line {
+    white-space: pre-line;
+}
