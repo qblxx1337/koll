@@ -1,7 +1,11 @@
-#1 {
+#z1 {
     letter-spacing: 1px;
 }
 
-#2 {
+#z2 {
     letter-spacing: 3px;
+}
+
+#z3 {
+    letter-spacing: -1px;
 }
