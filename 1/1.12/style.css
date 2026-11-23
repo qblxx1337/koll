@@ -11,3 +11,10 @@
     text-decoration-color: red;
     
 }
+
+#task-3 {
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-decoration-color: red;
+    
+}
