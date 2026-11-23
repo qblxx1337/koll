@@ -44,3 +44,9 @@ div {
     border: 1px solid;
     overflow: scroll;
 }
+.photo2 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    overflow: hidden;
+}
