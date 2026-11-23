@@ -1,0 +1,19 @@
+.box1 {
+    width: 150px;
+    border: 1px solid;
+    margin-bottom: 20px;
+}
+
+.box2 {
+    width: 150px;
+    border: 1px solid;
+    margin-bottom: 20px;
+    overflow-wrap: break-word;
+}
+
+.box3 {
+    width: 150px;
+    border: 1px solid;
+    margin-bottom: 20px;
+    word-break: break-all;
+}
