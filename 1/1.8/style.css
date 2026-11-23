@@ -9,7 +9,7 @@ div {
     width: 200px;
     height: 200px;
     border: 1px solid;
-    margin-bottom: 80px;
+    margin-bottom: 20px;
     overflow-y: scroll;
 }
 
@@ -17,14 +17,14 @@ div {
     width: 200px;
     height: 200px;
     border: 1px solid;
-    margin-bottom: 80px;
+    margin-bottom: 20px;
     overflow-y: hidden;
 }
 #elem4 {
     width: 200px;
     height: 200px;
     border: 1px solid;
-    margin-bottom: 80px;
+    margin-bottom: 20px;
     overflow-y: hidden;
 }
 
