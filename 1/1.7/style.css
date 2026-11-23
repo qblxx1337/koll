@@ -9,3 +9,8 @@
 	white-space: pre;
 	border: 1px solid black;
 }
+#elem2 {
+	tab-size: 2;
+	white-space: pre;
+	border: 1px solid black;
+}
