@@ -4,3 +4,10 @@
     text-decoration-color: red;
     
 }
+
+#task-2 {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: red;
+    
+}
