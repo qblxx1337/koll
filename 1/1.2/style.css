@@ -5,3 +5,7 @@
 span {
     text-transform: uppercase;
 }
+
+#z3 {
+    text-transform: capitalize;
+}
