@@ -1,9 +1,11 @@
 .task-1 {
     width: 80%;
     column-width: 300px;
+    border: 1px solid;
 }
 
 .task-2 {
     width: 1000px;
+    border: 1px solid;
     column-count: 4;
 }
