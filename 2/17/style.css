@@ -1,0 +1,13 @@
+#task1:focus {
+    border: 100px solid red;
+    border-radius: 100px;
+
+}
+
+#task2 {
+    margin-top: 20px;
+}
+#task2:focus {
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: -1px -1px 5px ;
+}
