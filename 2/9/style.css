@@ -1,3 +1,7 @@
 input::placeholder {
     color: red;
 }
+
+textarea::placeholder {
+    color: navy;
+}
