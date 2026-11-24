@@ -1,3 +1,9 @@
-.task1 {
-    
+#child1 {
+	width: calc(100% - 50px);
+	height: 100px;
+	margin: 0 auto;
+	border: 1px solid red;
+}
+#parent1 {
+	border: 1px solid green;
 }
