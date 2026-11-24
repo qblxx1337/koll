@@ -1,0 +1,9 @@
+#child1 {
+	width: max(300px, 50%);
+	height: 100px;
+	margin: 0 auto;
+	border: 1px solid red;
+}
+#parent1 {
+	border: 1px solid green;
+}
