@@ -1,3 +1,7 @@
 #task1 {
     resize: horizontal;
 }
+
+#task2 {
+    resize: vertical;
+}
