@@ -9,3 +9,10 @@
     border: 1px solid;
     column-count: 4;
 }
+
+.task-3 {
+    width: 1000px;
+    column-count: 4;
+    border: 1px solid;
+    column-gap: 30px;
+}
