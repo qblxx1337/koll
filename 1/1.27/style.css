@@ -7,3 +7,12 @@
 #parent1 {
 	border: 1px solid green;
 }
+#child2 {
+	width: min(400px, 30%);
+	height: 100px;
+	margin: 0 auto;
+	border: 1px solid red;
+}
+#parent2 {
+	border: 1px solid green;
+}
