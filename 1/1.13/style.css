@@ -16,3 +16,11 @@
     border: 1px solid;
     column-gap: 30px;
 }
+
+.task-4 {
+    width: 1000px;
+    column-count: 4;
+    column-gap: 30px;
+    border: 1px solid;
+    column-rule: 1px dashed grey;
+}
