@@ -1,0 +1,11 @@
+h1 {
+    color: rgb(255 0 0 / 0.5);
+}
+
+h2 {
+    background-color: rgba(0, 255, 0, 0.5);
+}
+
+h3 {
+    border: 2px solid rgb(0 190 255 / 0.5);
+}
