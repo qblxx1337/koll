@@ -1,0 +1,13 @@
+#photos {
+    background-image: url(img.png);
+    width: 150px;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+
+p {
+    background-color: green;
+    color: yellow;
+    border: 1px solid blue;
+    opacity: 0.5;
+}
