@@ -1,3 +1,37 @@
 #task1 {
     text-shadow: 10px 5px 3px red;
 }
+
+#task2 {
+    text-shadow: -10px -5px green;
+}
+
+#task3 {
+    text-shadow: 15px -10px;
+}
+
+#task4 {
+    text-shadow: 0 0 5px green;
+}
+
+#task5 {
+    text-shadow: 0 10px green, 0 -10px red;
+}
+
+#task6 {
+    text-shadow: 3px 3px 3px;
+}
+
+#task7 {
+    text-shadow: 0 0 3px;
+}
+#task8 {
+    text-shadow: 0 0 3px red;
+}
+
+#task9 {
+    text-shadow: -10px -10px 3px blue, 10px 10px 3px red;
+}
+#task10 {
+    text-shadow: 20px 20px 1px blue, 10px 10px 1px red;
+}
