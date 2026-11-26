@@ -1,0 +1,6 @@
+#task1 {
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(rgb(223, 223, 47), white);
+    border: 1px solid;
+}
