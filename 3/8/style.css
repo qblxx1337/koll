@@ -1,5 +1,40 @@
 #task1 {
     width: 200px;
     height: 200px;
-    background: radial-gradient(white, rgb(15,143,194));
+    background: radial-gradient(white, rgb(15, 143, 194));
+}
+
+#task2 {
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(at top, white, rgb(15, 143, 194));
+}
+
+#task3 {
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(rgb(151, 214, 229) 0.5px, rgb(15, 143, 194));
+}
+
+#task4 {
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(rgb(62, 201, 240) 10%, rgb(20, 158, 211) 65%, rgb(0, 122, 179) 100%);
+}
+
+#task5 {
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(at 30px 30px, rgb(72, 209, 255) 0%, rgb(0, 153, 219) 16%, rgb(0, 119, 179) 25%);
+}
+
+#task7 {
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(at center, black 10px, white, white 25px,  green 40px);
+}
+#task8 {
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(at center,green 20px, white 25px, white 35px,  green 40px);
 }
