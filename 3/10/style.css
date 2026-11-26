@@ -1,0 +1,6 @@
+#task1 {
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+    background: repeating-radial-gradient(black 0px, black 2px, white 2px, white 4px);
+}
