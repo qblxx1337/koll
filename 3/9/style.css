@@ -1,3 +1,28 @@
 #task1 {
-    
+    border: 1px solid;
+    background: repeating-linear-gradient(to left , black 0px, black 5px, white 5px, white 10px);
+    width: 200px;
+    height: 200px;
+}
+
+#task2 {
+    border: 1px solid;
+    background: repeating-linear-gradient( black 0px, black 5px, white 5px, white 10px);
+    width: 200px;
+    height: 200px;
+}
+
+#task3 {
+    border: 1px solid;
+    margin: 20px 0;
+    background: repeating-linear-gradient( black 0px, black 1px, white 1px, white 5px);
+    width: 200px;
+    height: 200px;
+}
+#task4 {
+    border: 1px solid;
+    margin: 20px 0;
+    background: repeating-linear-gradient(45deg, red 0px, red 2px, white 2px, white 10px);
+    width: 200px;
+    height: 200px;
 }
