@@ -1,0 +1,11 @@
+#task1 {
+    border: 1px solid;
+    width: 300px;
+    height: 100px;
+    margin: 10px;
+    transition: all 1.4s ease;
+}
+
+#task1:hover {
+    background-color: red;
+}
