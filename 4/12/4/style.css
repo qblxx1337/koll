@@ -1,0 +1,17 @@
+p {
+    display: block;
+    position: absolute;
+    width: 450px;
+    margin: 20px auto;
+}
+
+a{
+    border: 1px solid;
+    padding: 5px;
+    position: relative;
+    display: block;
+    transform: rotate(90deg);
+    width: 100px;
+    right: -500px;
+    top: 100px;
+}
