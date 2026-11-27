@@ -1,0 +1,6 @@
+#elem {
+	animation-name: anim;
+	animation-duration: 4s;
+	animation-delay: 5s;
+	animation-timing-function: ease;
+}
