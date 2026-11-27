@@ -1,0 +1,11 @@
+#task{
+    height: 100px;
+    width: 100px;
+    border: 1px solid;
+    margin: 80px;
+    transition: transform 0.5s linear;
+    transform-origin: center bottom;
+}
+#task:hover {
+    transform: skew(40deg);
+}
