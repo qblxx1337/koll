@@ -1,0 +1,13 @@
+#task1 {
+    width: 500px;
+    height: 100px;
+    margin: 30vh auto;
+    border: 1px solid;
+}
+
+#task2 {
+    width: 70vw;
+    height:70vh;
+    margin: 30px auto;
+    border: 1px solid;
+}
