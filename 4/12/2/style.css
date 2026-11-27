@@ -1,0 +1,20 @@
+nav{
+    margin: 100px auto;
+    max-width: 500px;
+    display: flex;
+    justify-content: space-between;
+    transform: skewY(-6deg);
+}
+
+.links {
+    border: 1px solid;
+    width: 70px;
+
+    padding: 10px;
+    text-decoration: none;
+    transition: transform 0.3s linear;
+}
+
+.links:hover{
+    transform: skew(-2deg, 2deg) scale(1.25);
+}
