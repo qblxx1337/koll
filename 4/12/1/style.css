@@ -1,1 +1,17 @@
-nav
+nav{
+    margin: 20px auto;
+    max-width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.links {
+    border: 1px solid;
+    padding: 10px;
+    text-decoration: none;
+    transition: transform 0.1s linear;
+}
+
+.links:hover, .links.active {
+    transform: rotate(10deg) scale(1.07);
+}
