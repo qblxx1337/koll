@@ -5,3 +5,7 @@
     transition: transform 0.5s linear;
     margin: 50px;
 }
+
+#task1:hover {
+    transform: skew(40deg);
+}
