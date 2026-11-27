@@ -1,0 +1,11 @@
+#task1 {
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    transition: transform 0.5s linear;
+    margin: 50px;
+}
+
+#task1:hover {
+    transform: scale(1.7);
+}
