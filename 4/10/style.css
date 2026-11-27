@@ -1,0 +1,23 @@
+#task1 {
+    border: 1px solid;
+    width: 100px;
+    height: 100px;
+    margin: 70px;
+    transition: transform 1s linear;
+}
+
+#task1:hover {
+    transform: translateX(100px);
+}
+
+#task2 {
+    border: 1px solid;
+    width: 100px;
+    height: 100px;
+    margin: 70px;
+    transition: transform 1s linear;
+}
+
+#task2:hover {
+    transform: translate(-50px, -50px);
+}
