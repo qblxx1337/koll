@@ -1,0 +1,54 @@
+@keyframes task1 {
+	from {
+		width: 50px;
+	}
+	to {
+		width: 400px;
+	}
+}
+
+#task1 {
+	animation-play-state: paused;
+	animation-duration: 2s;
+	animation-name: task1;
+    animation-direction: alternate-reverse;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	border: 1px solid black;
+	height: 50px;
+    width: 50px;
+}
+#task1:hover {
+	animation-play-state: running;
+}
+
+
+@keyframes task2 {
+	from {
+		width: 50px;
+	}
+	to {
+		width: 400px;
+	}
+}
+
+#task2 {
+	border: 1px solid black;
+	height: 50px;
+    margin: 10px 0;
+    width: 50px;
+}
+#task2-2 {
+    border: 1px solid black;
+	height: 50px;
+    width: 50px;
+    animation-play-state: paused;
+	animation-duration: 2s;
+	animation-name: task2;
+    animation-direction: alternate-reverse;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+}
+#task2:hover + #task2-2 {
+	animation-play-state: running;
+}
