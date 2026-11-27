@@ -1,0 +1,29 @@
+#task1 {
+    height: 200px;
+    width: 200px;
+    border: 1px solid;
+    border-radius: 100%;
+    margin: 300px auto;
+}
+
+#circle {
+    height: 50px;
+    width: 50px;
+    border: 1px solid;
+    border-radius: 100%;
+    margin: -100% auto auto auto;
+    transform-origin:  center 550% ;
+    animation: move 4s linear infinite;
+}
+@keyframes move {
+    from {
+        transform: rotate(-1turn);
+    }
+    33% {
+        background-color: red;
+    }
+    to {
+        background-color: white;
+    }
+}
+
