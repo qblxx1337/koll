@@ -1,0 +1,5 @@
+.elem {
+    box-sizing: border-box;
+    border: 1px solid;
+    padding: 5px 15px;
+}
