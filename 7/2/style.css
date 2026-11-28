@@ -1,5 +1,13 @@
 section {
     border: 1px solid;
     width: 800px;
-    height: 300px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+}
+
+#task {
+    border: 1px solid;
+    height: 100px;
+    width: 100px;
 }
