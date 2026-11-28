@@ -1,0 +1,12 @@
+#task1-block {
+    border: 1px solid;
+    display: flex;
+    flex-direction: row;
+    width: 550px;
+    height: 550px;
+}
+
+#task1 {
+    border: 1px solid blue;
+    flex-basis: 100px;
+}
