@@ -1,0 +1,43 @@
+.elem {
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #696989;
+}
+
+#parent1 {
+    display: grid;
+    justify-content: start;
+    align-content: center;
+    grid-template-columns: 100px 100px;
+    grid-gap: 10px;
+    padding: 10px;
+    border: 2px solid #696989;
+    height: 250px;
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+#parent2 {
+    display: grid;
+    justify-content: center;
+    align-content: end;
+    grid-template-columns: repeat(3, 100px);
+    grid-gap: 10px;
+    padding: 10px;
+    border: 2px solid #696989;
+    height: 250px;
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+#parent3 {
+    display: grid;
+    justify-content: end;
+    align-content: center;
+    grid-template-columns: repeat(3, 100px);
+    grid-gap: 10px;
+    padding: 10px;
+    border: 2px solid #696989;
+    height: 250px;
+    width: 500px;
+}
