@@ -3,3 +3,29 @@
     border: 1px solid;
     padding: 5px 15px;
 }
+#parent1 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 100px);
+    align-items: start;
+    border: 1px solid;
+    width: 500px;
+    margin-bottom: 20px;
+}
+#parent2 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 100px);
+    align-items: center;
+    border: 1px solid;
+    width: 500px;
+    margin-bottom: 20px;
+}
+#parent3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 100px);
+    align-items: end;
+    border: 1px solid;
+    width: 500px;
+}
