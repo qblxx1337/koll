@@ -3,10 +3,42 @@
     display: flex;
     flex-direction: row;
     width: 550px;
-    height: 550px;
+    height: 250px;
+    margin: 20px;
+
 }
 
 #task1 {
     border: 1px solid blue;
     flex-basis: 100px;
+}
+
+#task2-block {
+    border: 1px solid;
+    display: flex;
+    flex-direction: row;
+    width: 550px;
+    height: 250px;
+    margin: 20px;
+}
+
+#task2 {
+    border: 1px solid blue;
+    flex-basis: 100px;
+    width: 50px;
+}
+
+#task3-block {
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 550px;
+    margin: 20px;
+}
+
+#task3 {
+    border: 1px solid blue;
+    flex-basis: 100px;
+    height: 50px;
 }
