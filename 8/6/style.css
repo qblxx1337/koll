@@ -1,0 +1,40 @@
+.elem {
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #696989;
+}
+
+#parent1 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 50px);
+    justify-items: start;
+    grid-gap: 10px;
+    padding: 10px;
+    border: 2px solid #696989;
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+#parent2 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 50px);
+    justify-items: center;
+    grid-gap: 10px;
+    padding: 10px;
+    border: 2px solid #696989;
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+#parent3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 50px);
+    justify-items: end;
+    grid-gap: 10px;
+    padding: 10px;
+    border: 2px solid #696989;
+    width: 500px;
+}
